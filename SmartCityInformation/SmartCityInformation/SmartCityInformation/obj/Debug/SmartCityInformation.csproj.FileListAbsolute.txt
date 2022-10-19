@@ -1,0 +1,177 @@
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\SmartCityInformation.dll.config
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\SmartCityInformation.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\SmartCityInformation.pdb
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\csc.exe
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\csc.exe.config
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\csc.rsp
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\csi.exe
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\csi.exe.config
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\csi.rsp
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.AppContext.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Console.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.IO.Compression.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Net.Http.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.ValueTuple.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\vbc.exe
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\vbc.exe.config
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\vbc.rsp
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\VBCSCompiler.exe
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\obj\Debug\SmartCityInformation.csproj.AssemblyReference.cache
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\obj\Debug\SmartCityInformation.csproj.CoreCompileInputs.cache
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\obj\Debug\SmartCityInformation.csproj.CopyComplete
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\obj\Debug\SmartCityInformation.dll
+C:\Users\kanja\Desktop\SmartCityInformation\SmartCityInformation\SmartCityInformation\obj\Debug\SmartCityInformation.pdb
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\SmartCityInformation.dll.config
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\SmartCityInformation.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\SmartCityInformation.pdb
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\csc.exe
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\csc.exe.config
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\csc.rsp
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\csi.exe
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\csi.exe.config
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\csi.rsp
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.AppContext.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Console.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Net.Http.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\vbc.exe
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\vbc.exe.config
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\vbc.rsp
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\obj\Debug\SmartCityInformation.csproj.AssemblyReference.cache
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\obj\Debug\SmartCityInformation.csproj.CoreCompileInputs.cache
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\obj\Debug\SmartCityInformation.csproj.CopyComplete
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\obj\Debug\SmartCityInformation.dll
+C:\Users\Milan Limbani\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\SmartCityInformation\obj\Debug\SmartCityInformation.pdb
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\SmartCityInformation.dll.config
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\SmartCityInformation.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\SmartCityInformation.pdb
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\csc.exe
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\csc.exe.config
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\csc.rsp
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\csi.exe
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\csi.exe.config
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\csi.rsp
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.AppContext.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Console.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.IO.Compression.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Net.Http.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.ValueTuple.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\vbc.exe
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\vbc.exe.config
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\vbc.rsp
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\VBCSCompiler.exe
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\obj\Debug\SmartCityInformation.csproj.AssemblyReference.cache
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\obj\Debug\SmartCityInformation.csproj.CoreCompileInputs.cache
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\obj\Debug\SmartCityInformation.csproj.CopyComplete
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\obj\Debug\SmartCityInformation.dll
+C:\Users\kanja\Downloads\SmartCityInformation\SmartCityInformation\SmartCityInformation\obj\Debug\SmartCityInformation.pdb
